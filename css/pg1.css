@@ -1,11 +1,16 @@
 body {
     margin: 0%;
     font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
 }
 
     #titulo {
-        background-color: black;
+        padding: 3%;
+        background-color: rgb(255, 164, 195);
+        text-align: center;
+        color: rgb(54, 29, 21);
     }
+    
 
 
     
