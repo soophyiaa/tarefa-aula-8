@@ -1,0 +1,21 @@
+body {
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
+}
+
+    #titulo {
+        padding: 2%;
+        background-color: rgb(16, 151, 86);
+        text-align: center;
+        color: rgb(14, 8, 6);
+    }
+    #resumo{
+        text-align: center;
+        font-size: larger;
+        padding: 8%;
+    }
+
+    #footer{
+        text-align: center;
+    }
